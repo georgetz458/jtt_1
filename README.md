@@ -8,4 +8,4 @@ In the costPerDay it takes as an argument a list of logs. I represent a report u
 
 In the rankingReport it uses a similar logic to the previous one. The difference is that the key now is the id. After getting the maps, using stream the maps are sorted by total cost, using Float.compare as a comparator in the costs.
 
-In the main method in Main class the sample of the logs is created and the aforementioned methods called.
+In the main method in Main class the sample of the logs is created and the aforementioned methods are called.
