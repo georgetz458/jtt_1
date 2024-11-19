@@ -1,5 +1,5 @@
-# I created a java project named jtt_1
-
+# java Technical Task 1
+ I created a java project named jtt_1
 I assumed that in the table the Id is the identifier of the employee and set it as a String, the In house / Outsource as a char, the date as String, hours as float, hourly rate as int and fixed cost as int.
 
 For the logs I created the class Employee which represents a log. For the reports I created a class named Report which has two static methods. The costPerDay and rankingReport for the daily reports and the ranking reports respectively.
